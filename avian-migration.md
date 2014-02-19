@@ -83,3 +83,5 @@ north less species more pratim TODO
 south more species less pratim TODO
 
 alvit sibit - south africa - how
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Avian Migration 2014</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://gitlab.com/rubberduckdev/avian-migration-2014" property="cc:attributionName" rel="cc:attributionURL">rubberduckdev</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.tau.ac.il/lifesci/departments/zoology/members/leshem/leshem.html" rel="dct:source">http://www.tau.ac.il/lifesci/departments/zoology/members/leshem/leshem.html</a>.
